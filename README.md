@@ -1,5 +1,5 @@
 <p align="center">
-  assets/img/profile.png alt="Jean-Gerard HOUNKANRIN" width="220"/>
+  https://jeangerardepsi.github.io/jeangerardhounkanrin/assets/img/profile.png
 </p>
 
 <h1 align="center">Jean-Gerard HOUNKANRIN</h1>
@@ -18,9 +18,10 @@ Assistant Chef de Projet SI • Pilotage IT • Support Applicatif • Transform
 
 <p align="center">
 <a href="mailto:jeangerardhounkanrin@gmail.com">📧 Email</a> •
-TON-LINKEDIN💼 LinkedIn</a> •
-://github.com/jeangerardepsi">🐙 GitHub</a>
+https://github.com/jeangerardepsi🐙 GitHub</a>
 </p>
+
+---
 
 ---
 
