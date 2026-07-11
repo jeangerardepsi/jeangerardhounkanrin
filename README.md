@@ -1,6 +1,6 @@
-<p align="center">
-  https://jeangerardepsi.github.io/jeangerardhounkanrin/assets/img/profile.png
-</p>
+# Test
+
+<img src="https://jeangerardepsi.jeangerardhounkanrin/assets/img/profile.png
 
 <h1 align="center">Jean-Gerard HOUNKANRIN</h1>
 
