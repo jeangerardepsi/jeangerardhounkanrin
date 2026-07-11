@@ -1,21 +1,30 @@
-# 👋 Bonjour, je suis Jean-Gerard HOUNKANRIN
+<p align="center">
+  assets/img/profile.png="Jean-Gerard HOUNKANRIN" width="220"/>
+</p>
 
-### Assistant Chef de Projet SI | Pilotage IT | Support Applicatif | Transformation Digitale
+<h1 align="center">Jean-Gerard HOUNKANRIN</h1>
 
-📍 Cergy, France  
-🎓 Master Expert en Informatique et Système d'Information (MEISI) – EPSI Paris  
-💼 Assistant Chef de Projet Systèmes d'Information (MOE) – CFAO Group  
-🌍 Expérience internationale : France, Bénin, Togo, Sénégal
+<h3 align="center">
+Assistant Chef de Projet SI • Pilotage IT • Support Applicatif • Transformation Digitale
+</h3>
+
+<p align="center">
+📍 Cergy, France • 🎓 EPSI Paris • 💼 CFAO Group
+</p>
+
+<p align="center">
+🌍 Expérience : France • Bénin • Togo • Sénégal
+</p>
 
 ---
 
 ## 🚀 À propos de moi
 
-Chef de projet Systèmes d'Information avec plus de 5 ans d'expérience dans des environnements bancaires et internationaux.
+Passionné par les Systèmes d'Information, la gestion de projet et la transformation digitale, j'évolue depuis plus de 5 ans dans des environnements bancaires et internationaux.
 
-Spécialisé dans la coordination d'équipes techniques et métiers, le support IT (N1 à N3), le pilotage de projets de transformation digitale et l'amélioration continue des services IT.
+Mon parcours m'a permis d'acquérir une solide expérience dans le pilotage de projets IT, le support applicatif, la supervision d'applications critiques, le reporting décisionnel et la coordination entre les équipes métiers et techniques.
 
-Habitué à piloter des activités à fort impact, à améliorer la qualité de service et à accompagner les utilisateurs, je souhaite évoluer vers des postes à responsabilité avec une forte dimension management, gouvernance SI et pilotage opérationnel.
+Actuellement Assistant Chef de Projet SI (MOE) chez CFAO Group, je poursuis également un Master Expert en Informatique et Système d'Information à l'EPSI Paris.
 
 ---
 
@@ -26,19 +35,19 @@ Habitué à piloter des activités à fort impact, à améliorer la qualité de 
 - Pilotage de projets IT
 - Recueil et analyse des besoins
 - Rédaction de cahiers des charges
-- Coordination métiers & équipes techniques
+- Coordination métiers et équipes techniques
 - Gestion des risques
-- Reporting & KPI
+- Reporting et KPI
 - Méthodes Agile (Scrum / Kanban)
-- Planification et suivi des livrables
+- Suivi des livrables
 
 ### 📌 Support Applicatif & Exploitation
 
-- Support IT N1, N2 et N3
-- Gestion des incidents et demandes
+- Support IT N1 / N2 / N3
+- Gestion des incidents
 - MCO (Maintien en Condition Opérationnelle)
 - Qualité de service (SLA)
-- Environnements applicatifs bancaires critiques
+- Applications bancaires critiques
 - Processus ITSM
 
 ### 📌 Data & Outils
@@ -57,125 +66,125 @@ Habitué à piloter des activités à fort impact, à améliorer la qualité de 
 - Infrastructure SI
 - Virtualisation
 - Cloud Computing
-- Notions de sécurité SI
+- Sécurité Informatique
 
 ---
 
 ## 💼 Expériences Professionnelles
 
-### Assistant Chef de Projet SI (MOE) – Alternance
-**CFAO Group – France Métropolitaine**  
-*Septembre 2025 – Septembre 2026*
+### 🏢 Assistant Chef de Projet SI (MOE) - CFAO Group
+
+**Septembre 2025 - Septembre 2026**
 
 - Pilotage de projets de transformation digitale
-- Recueil des besoins, cadrage et déploiement
+- Support ENABLON (N1 à N3)
 - Coordination des équipes techniques et métiers
-- Gestion du support ENABLON (N1 à N3)
-- Suivi et amélioration continue des services IT
 - Participation au projet IAM
-- Reporting et suivi de performance via Power BI
+- Reporting Power BI
 - Formation et accompagnement des utilisateurs
-- Coordination de migrations de systèmes critiques
 
 ---
 
-### Exploitant Core Banking
-**NSIA Banque Bénin**  
-*Janvier 2024 – Septembre 2024*
+### 🏦 Exploitant Core Banking - NSIA Banque
+
+**Janvier 2024 - Septembre 2024**
 
 - Gestion opérationnelle des applications bancaires critiques
-- Suivi et résolution des incidents
-- Contribution au maintien en condition opérationnelle (MCO)
+- Résolution des incidents
+- Contribution au maintien en condition opérationnelle
 - Support transverse multi-pays
 
 ---
 
-### Gestionnaire Applicatif Bancaire
-**NSIA Banque Bénin**  
-*Septembre 2023 – Décembre 2023*
+### 🏦 Gestionnaire Applicatif Bancaire - NSIA Banque
+
+**Septembre 2023 - Décembre 2023**
 
 - Support utilisateurs
-- Gestion des processus IT liés à la conformité et aux risques
-- Amélioration des outils et services
-- Supervision du support IT
-- Coordination des équipes techniques et métiers
+- Gestion des processus IT liés à la conformité
+- Supervision des incidents
+- Coordination métiers et techniques
 
 ---
 
-### Assistant Chef de Projet IT & Digital
-**United Bank for Africa (UBA)**  
-*Mars 2020 – Septembre 2023*
+### 🌍 Assistant Chef de Projet IT & Digital - UBA
 
-- Pilotage de projets digitaux de la conception à la livraison
-- Rédaction de cahiers des charges et spécifications
-- Coordination des équipes et prestataires
-- Organisation des recettes et validations
+**Mars 2020 - Septembre 2023**
+
+- Pilotage de projets digitaux
+- Rédaction de cahiers des charges
+- Coordination des prestataires
+- Recettes et validations
 - Formation des utilisateurs
-- Suivi des livrables et reporting projet
 
 ---
 
-### Senior IT & Digital Support
-**United Bank for Africa (UBA)**  
-*Mai 2015 – Février 2020*
+### 💻 Senior IT & Digital Support - UBA
+
+**Mai 2015 - Février 2020**
 
 - Gestion des incidents IT
+- Déploiement de solutions numériques
+- Support utilisateurs
 - Interface avec les éditeurs logiciels
-- Déploiement de solutions IT
-- Accompagnement des utilisateurs
 
 ---
 
 ## 🏆 Réalisations
 
-✅ Formation de plus de 50 utilisateurs sur les outils digitaux
-
-✅ Rédaction de plusieurs cahiers des charges fonctionnels
-
-✅ Support N1 à N3 sur des solutions critiques
-
-✅ Intégration du module Plan d'action sur ENABLON
+✅ Formation de plus de 50 utilisateurs
 
 ✅ Participation à un projet IAM
 
-✅ Contribution à l'amélioration continue des services IT
+✅ Intégration du module Plan d'Action ENABLON
+
+✅ Support N1, N2 et N3 sur applications critiques
+
+✅ Rédaction de plusieurs cahiers des charges fonctionnels
+
+✅ Amélioration continue des services IT
 
 ---
 
 ## 🎓 Formation
 
 ### Master Expert en Informatique et Système d'Information (MEISI)
-**EPSI Paris** | 2024 - 2026
 
-- Analyse et définition de la stratégie SI
-- Management informatique
+**EPSI Paris | 2024 - 2026**
+
+- Stratégie des Systèmes d'Information
+- Management Informatique
 - Big Data & BI
-- Développement de solutions applicatives métier
-- Infrastructure cloud et virtualisation
+- Développement d'applications métiers
+- Cloud & Virtualisation
 
-### Licence Professionnelle en Systèmes, Réseaux et Sécurité (LPSRS)
+### Licence Professionnelle Systèmes Réseaux et Sécurité
+
 **ESIG Bénin**
 
 ---
 
-## 📂 Mes Projets
+## 📂 Projets
 
 ### 📊 Power BI KPI Dashboard
-Tableaux de bord et indicateurs de pilotage.
+
+Tableaux de bord de pilotage et reporting décisionnel.
 
 ### 📋 IT Project Management Toolkit
-Templates et documents de gestion de projet SI.
+
+Documents et modèles de gestion de projet.
 
 ### 🏦 Core Banking Operations
-Documentation opérationnelle et procédures de supervision applicative.
+
+Documentation et procédures de supervision bancaire.
 
 ### 📚 IT Support Knowledge Base
-Guides utilisateurs, procédures et support applicatif.
+
+Guides utilisateurs et documentation support.
 
 ### 🔐 IAM & Governance
-Travaux et documentation autour de la gouvernance et de la gestion des accès.
 
-> 🚧 Projets en cours d'enrichissement.
+Documentation autour de la gestion des accès et de la gouvernance SI.
 
 ---
 
@@ -186,7 +195,7 @@ Travaux et documentation autour de la gouvernance et de la gestion des accès.
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact
 
 📧 **jeangerardhounkanrin@gmail.com**
 
@@ -196,8 +205,8 @@ Travaux et documentation autour de la gouvernance et de la gestion des accès.
 
 ### Réseaux
 
-- LinkedIn : *Ajoute ton URL LinkedIn*
-- GitHub : *Ajoute ton URL GitHub Pages*
+- 💼 LinkedIn : https://www.linkedin.com/in/TON-PROFIL
+- 🐙 GitHub : https://github.com/jeangerardepsi
 
 ---
 
