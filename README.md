@@ -1,7 +1,6 @@
 <p align="center">
-  ./assets/img/profile.png alt="Jean-Gerard HOUNKANRIN" width="220">
+  ardhounkanrin/assets/img/profile.png" alt="Jean-Gerard HOUNKANRIN" width="220">
 </p>
-
 <h1 align="center">Jean-Gerard HOUNKANRIN</h1>
 
 <h3 align="center">
